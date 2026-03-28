@@ -1,7 +1,7 @@
 {
 "api_url": "http://tv.irizerxapis.com",
-"versionCode": 2,
-"versionName": "2.0",
+"versionCode": 1,
+"versionName": "1.0",
 "apkUrl": "http://irizerxapis.com/apks/app-release.apk",
 "releaseNotes": "تم إضافة قسم الأفلام وتسريع فتح القنوات."
 }
